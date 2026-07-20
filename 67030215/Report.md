@@ -40,8 +40,10 @@ I (18279) LAB1_RGB_TIMING: Entering Rest Phase... Waiting for residual charge to
 ให้นักศึกษาก๊อปปี้ข้อมูลตัวเลขชุดคู่อันดับ No, ADC Raw จาก Serial Monitor ทั้งหมดนำไปวางในโปรแกรม Microsoft Excel หรือ Google Sheets จากนั้นทำการพล็อตกราฟเส้น (Line Chart) โดยให้แกน X เป็นลำดับแซมเปิ้ล (1-20) และแกน Y เป็นค่าดิบของ ADC และแนบรูปกราฟลงในเล่มรายงาน
 ## สีแดง
 <img width="685" height="442" alt="image" src="https://github.com/user-attachments/assets/e2bd251e-9900-4f20-8fa2-ea8335d25eb7" />
+
 ## สีเขียว
 <img width="696" height="437" alt="image" src="https://github.com/user-attachments/assets/e8ce2ede-e2aa-4235-921a-64982cf550e6" />
+
 ## สีน้ำเงิน
 <img width="716" height="442" alt="image" src="https://github.com/user-attachments/assets/719b0d48-b83f-4fb1-94c0-59f62ae8b151" />
 
