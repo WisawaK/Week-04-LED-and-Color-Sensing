@@ -1,4 +1,4 @@
-### Week-04-Lab-1
+# Week-04-Lab-1
 ### 4.  บันทึกผลการทดลอง 
 
 #### 4.1 จาก `idf.py monitor` 
@@ -33,7 +33,7 @@ I (18279) LAB1_RGB_TIMING: Entering Rest Phase... Waiting for residual charge to
 
 
 
-### Week-04-Lab-2
+# Week-04-Lab-2
 ✍️ กิจกรรมวิเคราะห์ผลและการบ้านท้ายใบงาน (Data Science & Engineering Reflection)
 การพล็อตพฤติกรรมทางกายภาพ (Transient Response Curve):
 
